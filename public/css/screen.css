@@ -61,7 +61,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 /* line 8, ../../sass/screen.scss */
 body, html {
   background-color: #202020;
-  background: url("/images/background-pattern.png"); }
+  background: url("images/background-pattern.png"); }
 
 /* line 13, ../../sass/screen.scss */
 .logo {
